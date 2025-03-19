@@ -1,5 +1,5 @@
-name:"sharon"
-logo:"/assests/images/profpic.jpeg"
-description:"student"
-show_downloads:false
+name: "sharon"
+logo: "/assests/images/profpic.jpeg"
+description: "student"
+show_downloads: false
 theme: jekyll-theme-minimal

@@ -31,7 +31,7 @@ files. Implemented secure employee data access, integrated email functionality f
 and created visual graphs to analyze sales trends and inventory comparisons.
 **GOOGLE SEARCH CLONE | HTML, CSS**
   - Recreated Google’s Search, Image Search, and Advanced Search, implementing an intuitive
-UI/UX to mimic core functionalities while enhancing user experience.
+UI/UX to mimic core functionalities while enhancing user experience.<br>
 **check out projects [here](https://github.com/sharostack)**
 
 LinkedIn: 

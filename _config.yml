@@ -1,5 +1,5 @@
 name: "sharon"
-logo: "/assets/images/academic proficiency.png"
+logo: "portfolio/assets/images/academic proficiency.png"
 description: "student"
 show_downloads: false
 theme: jekyll-theme-minimal
